@@ -1,0 +1,30 @@
+{
+  "ActionSetActionID": "6082",
+  "ActionSetID": "5442",
+  "ActionID": "2",
+  "ActionStatus": "1",
+  "ActionName": "URL",
+  "ActionOrder": "0",
+  "ActionButtonPosX": "110",
+  "ActionButtonPosY": "259",
+  "ActionButtonWidth": "100",
+  "ActionButtonHeight": "50",
+  "ActionButtonImageURL": "",
+  "action": {
+    "ActionID": "2",
+    "ActionStatus": "1",
+    "ActionIdentifier": "OpenURL",
+    "ActionName": "Open Link"
+  },
+  "paramsValues": {
+    "url": "http://www.sodyo.com"
+  },
+  "paramsValuesDefs": {
+    "url": {
+      "ActionParamsValueID": "6625",
+      "ActionSetActionID": "6082",
+      "ActionParamID": "2",
+      "ActionParamsValue": "http://www.sodyo.com"
+    }
+  }
+}

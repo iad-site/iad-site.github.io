@@ -1,0 +1,45 @@
+{
+     "ActionSets": [
+          {
+               "ActionSetID": "5442",
+               "AppPlugMarkerID": "4385",
+               "ActionSetStatus": "1",
+               "ActionSetType": "1",
+               "ActionSetName": "Test5",
+               "ActionSetOrder": "0",
+               "ActionSetImage": "http://www.designbolts.com/wp-content/uploads/2016/07/Mountains-iPhone-6-Wallpaper.jpg",
+               "ActionSetActions": [
+                    {
+                         "ActionSetActionID": "6082",
+                         "ActionSetID": "5442",
+                         "ActionID": "2",
+                         "ActionStatus": "1",
+                         "ActionName": "URL",
+                         "ActionOrder": "0",
+                         "ActionButtonPosX": "50",
+                         "ActionButtonPosY": "100",
+                         "ActionButtonWidth": "200",
+                         "ActionButtonHeight": "100",
+                         "ActionButtonImageURL": "",
+                         "action": {
+                              "ActionID": "2",
+                              "ActionStatus": "1",
+                              "ActionIdentifier": "OpenURL",
+                              "ActionName": "Open Link"
+                         },
+                         "paramsValues": {
+                              "url": "http://www.sodyo.com"
+                         },
+                         "paramsValuesDefs": {
+                              "url": {
+                                   "ActionParamsValueID": "6625",
+                                   "ActionSetActionID": "6082",
+                                   "ActionParamID": "2",
+                                   "ActionParamsValue": "http://www.sodyo.com"
+                              }
+                         }
+                    }
+               ]
+          }
+     ]
+}

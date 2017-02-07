@@ -1,0 +1,21 @@
+{
+  "ActionSets": [
+    {
+      "ActionSetID": "5442",
+      "AppPlugMarkerID": "4385",
+      "ActionSetStatus": "1",
+      "ActionSetType": "1",
+      "ActionSetName": "Test",
+      "ActionSetOrder": "0",
+      "ActionSetWidth": 320,
+      "ActionSetHeight": 568,
+      "MaxActionSetWidth": 550,
+      "MinActionSetWidth": 320,
+      "ActionSetImage": "https://s3.amazonaws.com/sodyo.prod.images/8c669a0792962c6c9e9940b952e8685f0e64a2ca62ca1ebdd7ce8d5ab3aae78423bca0bda46827f0d98e1641e4217605ee4d3b2c6307f064ea87805f02bfc265.",
+      "ActionSetActions": []
+    }
+  ]
+}
+
+
+

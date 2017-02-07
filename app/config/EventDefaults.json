@@ -1,0 +1,44 @@
+{
+  "ActionSetActionID": "502",
+  "ActionSetID": "674",
+  "ActionID": "4",
+  "ActionStatus": "1",
+  "ActionName": "Add to calendar",
+  "ActionOrder": "2",
+  "ActionButtonPosX": "110",
+  "ActionButtonPosY": "259",
+  "ActionButtonWidth": "100",
+  "ActionButtonHeight": "50",
+  "ActionButtonImageURL": "",
+  "action": {
+    "ActionID": "4",
+    "ActionStatus": "1",
+    "ActionIdentifier": "AddToCalendar",
+    "ActionName": "Add to Calendar"
+  },
+  "paramsValues": {
+    "EventTitle": "Live Show Tonight",
+    "address": "Concert Hall",
+    "date": "1456851600"
+  },
+  "paramsValuesDefs": {
+    "EventTitle": {
+      "ActionParamsValueID": "445",
+      "ActionSetActionID": "502",
+      "ActionParamID": "4",
+      "ActionParamsValue": "Live Show Tonight"
+    },
+    "address": {
+      "ActionParamsValueID": "446",
+      "ActionSetActionID": "502",
+      "ActionParamID": "5",
+      "ActionParamsValue": "Concert Hall"
+    },
+    "date": {
+      "ActionParamsValueID": "2424",
+      "ActionSetActionID": "502",
+      "ActionParamID": "19",
+      "ActionParamsValue": "1456851600"
+    }
+  }
+}
